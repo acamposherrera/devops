@@ -5,6 +5,7 @@ namespace ArquitecturaBase
     // Comentario GitHub
     public class WeatherForecast
     {
+        // Nuevo comentario
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
