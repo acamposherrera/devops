@@ -4,6 +4,7 @@ namespace ArquitecturaBase
 {
     public class WeatherForecast
     {
+        // Nuevo comentario
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
