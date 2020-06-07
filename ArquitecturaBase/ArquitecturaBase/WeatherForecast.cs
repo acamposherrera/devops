@@ -2,6 +2,7 @@ using System;
 
 namespace ArquitecturaBase
 {
+    // Comentario GitHub
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
