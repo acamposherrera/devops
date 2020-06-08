@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj": {}
+    "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj": {
+    "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
+        "projectUniqueName": "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
         "projectName": "ArquitecturaBase",
-        "projectPath": "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
+        "projectPath": "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
         "packagesPath": "C:\\Users\\Murdock\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\obj\\",
+        "outputPath": "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

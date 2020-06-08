@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XwPbtEgBFb9vAzbu4PvwER/e9yYXsN92XFVmJCukoyl4Brs8aT62cNcuueW/0ZS08zb4MfHg7+9YuWVERJ+5sg==",
+  "dgSpecHash": "uNV2bsiegM1O4GxA029I5dCT1fAQDBExrdagwwBbnvQHDBw0YT289BlIBF9V0+ox49Hee95jQpf5LtIuW6vdNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Murdock\\source\\repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
+  "projectFilePath": "C:\\Users\\Murdock\\Source\\Repos\\devops\\ArquitecturaBase\\ArquitecturaBase\\ArquitecturaBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Murdock\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
