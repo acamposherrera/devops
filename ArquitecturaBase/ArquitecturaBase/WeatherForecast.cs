@@ -1,8 +1,8 @@
 using System;
-//pull Request Artifact 2
-///
-/// Release GitHub
-///
+//pull Request Artifact 3
+/// <summary>
+/// Releas 9 en Azure Pipelines
+/// </summary>
 namespace ArquitecturaBase
 {
     // Comentario GitHub
