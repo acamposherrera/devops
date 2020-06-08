@@ -1,5 +1,8 @@
 using System;
 //pull Request Artifact 2
+///
+/// Release GitHub
+///
 namespace ArquitecturaBase
 {
     // Comentario GitHub
