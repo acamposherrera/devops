@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ArquitecturaBase",
+    "\\ArquitecturaBase\\ArquitecturaBase"
   ],
+  "SelectedNode": "\\azure-pipelines.yml",
   "PreviewInSolutionExplorer": false
 }
