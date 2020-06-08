@@ -7,7 +7,8 @@ namespace ArquitecturaBase
     {
         // Nuevo comentario
         public DateTime Date { get; set; }
-
+        
+        // Nuevo comentario GitHub PullRequest
         public int TemperatureC { get; set; }
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
